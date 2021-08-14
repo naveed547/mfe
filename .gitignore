@@ -21,3 +21,11 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# MFE packages
+DomainComponents
+LibApp
+Page1
+Page2
+UIComponents
+Wrapper
