@@ -1,5 +1,4 @@
 # MFE Project
----------------
 
 This example demos a basic host application loading from different remote component.
 
@@ -11,12 +10,13 @@ This example demos a basic host application loading from different remote compon
 - LibApp holds all the node_modules, store and context used across the remote
 
 ## Running Demo
+
 1. Run npm run cleanInit. This will install node_modules for LibApp, DomainComponents, UIComponents, Page1, Page2 and Wrapper.
 2. Run npm start. This will build and serve LibApp, DomainComponents, UIComponents, Page1, Page2 and Wrapper on ports 8087, 8082, 8083, 8084, 8085 and 8086 respectively.
 
-* localhost:8085 (STANDALONE REMOTE LibApp holds all lib, store and context)
-* localhost:8082 (STANDALONE REMOTE DomainComponents)
-* localhost:8083 (STANDALONE REMOTE UIComponents)
-* localhost:8084 (STANDALONE REMOTE Page1)
-* localhost:8085 (STANDALONE REMOTE Page2)
-* localhost:8086 (HOST Wrapper act as a shell)
+- localhost:8085 (STANDALONE REMOTE LibApp holds all lib, store and context)
+- localhost:8082 (STANDALONE REMOTE DomainComponents)
+- localhost:8083 (STANDALONE REMOTE UIComponents)
+- localhost:8084 (STANDALONE REMOTE Page1)
+- localhost:8085 (STANDALONE REMOTE Page2)
+- localhost:8086 (HOST Wrapper act as a shell)
