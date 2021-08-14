@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "Wrapper",
+      "DomainComponents",
+      "UIComponents",
+      "Page1",
+      "Page2",
+      "LibApp"
+    ]
+  },
+  "scripts": {
+    "start": "lerna run --parallel start",
+    "build": "lerna run build",
+    "test": "lerna run --parallel test",
+    "cleanInit": "lerna run --parallel cleanInit"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "name": "mfe"
+}
