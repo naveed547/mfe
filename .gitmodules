@@ -22,7 +22,3 @@
 	path = Wrapper
 	url = https://github.com/naveed547/Wrapper.git
 	branch = master
-[submodule "Wrapper"]
-	path = SharedApp
-	url = https://github.com/naveed547/SharedApp.git
-	branch = master
