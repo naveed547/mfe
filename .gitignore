@@ -23,10 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # MFE packages
-DomainComponents
-LibApp
-Page1
-Page2
-UIComponents
-Wrapper
-Check
+DomainComponents1
+LibApp1
+Page11
+Page21
+UIComponents1
+Wrapper1
