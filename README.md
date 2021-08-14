@@ -1,4 +1,4 @@
-#MFE Project
+# MFE Project
 ---------------
 
 This example demos a basic host application loading from different remote component.
